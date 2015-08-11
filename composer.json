@@ -1,5 +1,5 @@
 {
-    "name": "albertogviana/agv-validator",
+    "name": "leonardomdornelas/agv-validator",
     "description": "CPF and CNPJ Validators and View Helpers for ZF2.",
     "type": "library",
     "authors": [
